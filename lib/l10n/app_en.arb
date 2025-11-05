@@ -1,0 +1,47 @@
+{
+    "@@locale": "en",
+    "title": "Pokedex Global App",
+
+    "onboardingTitle1": "All Pokémon in one place",
+    "onboardingDescription1": "Access to a wide list of Pokémon from all generations created by Nintendo",
+    "onboardingTitle2": "Keep your Pokédex updated",
+    "onboardingDescription2": "Register and save your profile, favorite Pokémon, settings and much more in the application",
+    
+    "errorTitle": "Something went wrong...",
+    "errorDescription": "We couldn't load the information at this moment. Verify your connection or try again later.",
+    
+    "regionsTitle": "Coming soon!",
+    "regionsDescription": "We're working to bring you this section. Come back later to discover all the news.",
+    
+    "favoritesTitle": "No favorite Pokémon yet",
+    "favoritesDescription": "Click on the heart icon of your favorite Pokémon and they will appear here.",
+
+    "filterTitle": "Filter by your preferences",
+    "filterType": "Type",
+    "filterDelete": "Delete filter",
+    "filterResult": "Found",
+    "filterResult2": "results",
+    "filterSearchBar": "Catch Pokémon...",
+
+    "detailPokemonWeight": "Weight",
+    "detailPokemonHeight": "Height",
+    "detailPokemonCategory": "Category",
+    "detailPokemonAbilities": "Abilities",
+    "detailPokemonMoves": "Moves",
+    "detailPokemonGender": "Gender",
+    "detailPokemonWeakness": "Weakness",
+
+    "profileTitle": "Language",
+    "profileDescription": "Select the language in which you want to see the application",
+      
+    "tabbarPokedex": "Pokédex",
+    "tabbarFavorite": "Favorites",
+    "tabbarProfile": "Profile",
+    "tabbarRegions": "Regions",
+    
+    "buttonContinue": "Continue",
+    "buttonStart": "Let's start",
+    "buttonRetry": "Retry",
+    "buttonApply": "Apply",
+    "buttonCancel": "Cancel"
+}
